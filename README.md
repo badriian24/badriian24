@@ -1,5 +1,5 @@
-<h1>Bdrxzar</h1>
-#hello
+<h1><center>Bdrxzar</h1>
+<b>hello</b>
 
 
 ![BDRXZAR github stats](https://github-readme-stats.vercel.app/api?username=badriian24&show_icons=true&theme=tokyonight)
