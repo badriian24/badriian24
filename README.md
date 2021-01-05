@@ -1,5 +1,5 @@
 <h1><center>Hello</center></h1>
-<b>Hi, i'm is **Bdrxzar** </b>
+<b>Hi, i'm is Bdrxzar, i'm Developer Akwardwar</b>
 
 
 ![BDRXZAR github stats](https://github-readme-stats.vercel.app/api?username=badriian24&show_icons=true&theme=tokyonight)
