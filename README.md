@@ -1,4 +1,4 @@
-<h1><center>Bdrxzar</h1>
+<h1><center>Bdrxzar</center></h1>
 <b>hello</b>
 
 
