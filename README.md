@@ -1,1 +1,1 @@
-[Bdrxzar]: https://github-readme-stats.vercel.app/api/pin/?username=badriian24&repo=github-readme-stats&cache_seconds=86400&theme=dark
+[![BDRXZAR github stats](https://github-readme-stats.vercel.app/api?username=Badriian24)](https://github.com/Badriian24/github-readme-stats)
