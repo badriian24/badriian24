@@ -4,7 +4,10 @@
 <br />
 <br />
 
-- 🔭 i'm worked Discord.js
+- ☇ i'm working discord.js
+- ☇ i'm working Other
+
+<br />
 
 ![BDRXZAR github stats](https://github-readme-stats.vercel.app/api?username=badriian24&show_icons=true&theme=tokyonight)
 <br />
