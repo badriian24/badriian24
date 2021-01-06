@@ -8,12 +8,12 @@
 
 <br />
 
-### Hi, i'm is Bdrxzar, i'm Developer Akwardwar
+### Glad to see you here!
 
 <br />
 <br />
 
-I am a passionate self-taught programmer ugh
+I'm is Bdrxzar, i'm Developer Akwardwar
 - ☇ i'm working discord.js
 - ☇ i'm working Other
 
