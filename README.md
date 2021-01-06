@@ -1,5 +1,4 @@
 <h1> Hello 👋 </h1>
-[![Discord](https://discordapp.com/api/guilds/781749127213613086/embed.png)](https://discord.gg/BQk6dsDDAu)
 <b>Hi, i'm is Bdrxzar, i'm Developer Akwardwar</b>
 
 <br />
