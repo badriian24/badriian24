@@ -1,4 +1,13 @@
-<h1> Hello 👋 </h1>
+### Hi there, I'm Bdrxzar! 👋
+<a href="https://discordapp.com/users/776714971782053889/">
+  <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+ <a href="https://github.com/badriian24">
+  <img align="left" alt="Lebyy's Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br />
+
 <b>Hi, i'm is Bdrxzar, i'm Developer Akwardwar</b>
 
 <br />
