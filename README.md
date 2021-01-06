@@ -8,6 +8,9 @@
 - ☇ i'm working Other
 
 <br />
+[![Discord](https://discordapp.com/api/guilds/222078108977594368/embed.png)](https://discord.gg/BQk6dsDDAu)
+
+<br />
 
 ![BDRXZAR github stats](https://github-readme-stats.vercel.app/api?username=badriian24&show_icons=true&theme=tokyonight)
 <br />
