@@ -8,7 +8,7 @@
 - ☇ i'm working Other
 
 <br />
-[![Discord](https://discordapp.com/api/guilds/781749127213613086/embed.png)](https://discord.gg/BQk6dsDDAu)
+![Discord](https://discordapp.com/api/guilds/781749127213613086/embed.png)](https://discord.gg/BQk6dsDDAu)
 
 <br />
 
