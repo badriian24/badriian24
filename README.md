@@ -8,7 +8,7 @@
 
 <br />
 
-<b>Hi, i'm is Bdrxzar, i'm Developer Akwardwar</b>
+## Hi, i'm is Bdrxzar, i'm Developer Akwardwar
 
 <br />
 <br />
