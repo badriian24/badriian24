@@ -13,6 +13,7 @@
 <br />
 <br />
 
+I am a passionate self-taught programmer ugh
 - ☇ i'm working discord.js
 - ☇ i'm working Other
 
