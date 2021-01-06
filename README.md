@@ -21,5 +21,4 @@ I am a passionate self-taught programmer ugh
 
 **Languages and Tools:** &nbsp;
 ![BDRXZAR github stats](https://github-readme-stats.vercel.app/api?username=badriian24&show_icons=true&theme=tokyonight)
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badriian24)](https://github.com/badriian24/Bdrxzar)
