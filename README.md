@@ -17,7 +17,7 @@
 
 I'm is Bdrxzar, i'm Developer Akwardwar
 - ☇ i'm working discord.js
-- ☇ i'm working Other
+- ☇ my website **[zxwar.com](https://zxwar.badriian24.repl.co/)**
 - 📫 Reach me at **[ian24fd24@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)**
 
 <br />
