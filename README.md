@@ -8,6 +8,9 @@
  <a href="https://github.com/badriian24">
   <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+ <a href="https://instagram.com/bdrxzar_24?igshid=hh8tyxkb61d4">
+  <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
 
