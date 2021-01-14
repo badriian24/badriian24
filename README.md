@@ -20,7 +20,7 @@
 
 I'm is Bdrxzar, i'm Developer Akwardwar
 - ☇ i'm working discord.js
-- ☇ my website **[zxwar.com](https://zxwar.badriian24.repl.co/)**
+- ☇ my website **[bdrxzar.xyz](https://bdrxzar.glitch.me)**
 - 📫 Reach me at **[bdrxzar@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)**
 
 <br />
