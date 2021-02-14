@@ -38,6 +38,8 @@ I'm is Bdrxzar, i'm Developer Akwardwar
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VisualStudioCode-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-5d2b90?style=flat-square&logo=visual-studio&logoColor=white" />
 </p>
+<br>
+### Github Stats
 
 ![BDRXZAR github stats](https://github-readme-stats.vercel.app/api?username=badriian24&show_icons=true&theme=tokyonight)
 <br />
