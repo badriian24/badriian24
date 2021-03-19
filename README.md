@@ -22,7 +22,6 @@ I'm is Bdrxzar, i'm Developer Akwardwar
 - ☇ i'm working JavaScript
 - Invite My Bot Discord **[Zxwar Bot](https://dsc.gg/zxwar-bot)**
 - 📫 Reach me at **[bdrxzar@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)**
-- Add Your Bot Discord In **[DBLXZ](https://www.dblxz.ml)**
 <br />
 
 <h2>🚀 Technologies</h2>
@@ -33,7 +32,6 @@ I'm is Bdrxzar, i'm Developer Akwardwar
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-68a063?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="MySql" src="https://img.shields.io/badge/-MySQL-00756f?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VisualStudioCode-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-5d2b90?style=flat-square&logo=visual-studio&logoColor=white" />
