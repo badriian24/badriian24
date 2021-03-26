@@ -16,6 +16,7 @@
 
 ### hey I'm Bdrxzar Glad to see you here! &nbsp;
 <details open>
+  <summary>About</summary>
 <br />
 
 I'm is Bdrxzar, i'm Developer Akwardwar
@@ -26,7 +27,7 @@ I'm is Bdrxzar, i'm Developer Akwardwar
 </details>
 
 <details open>
-<h2>🚀 Technologies</h2>
+<summary>🚀 Technologies</summary>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github&logoColor=white" />
@@ -40,8 +41,10 @@ I'm is Bdrxzar, i'm Developer Akwardwar
 </p>
   </details>
 <br>
-<h2>⚡ Github Stats</h2>
+<details open>
+<summary>⚡ Github Stats</summary>
 
 ![BDRXZAR github stats](https://github-readme-stats.vercel.app/api?username=badriian24&show_icons=true&theme=tokyonight)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badriian24&show_icons=true&theme=tokyonight)](https://github.com/badriian24)
+</details>
