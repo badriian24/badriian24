@@ -15,7 +15,7 @@
 <br />
 
 ### hey I'm Bdrxzar Glad to see you here! &nbsp;
-
+<details open>
 <br />
 
 I'm is Bdrxzar, i'm Developer Akwardwar
@@ -23,7 +23,9 @@ I'm is Bdrxzar, i'm Developer Akwardwar
 - Invite My Bot Discord **[Zxwar Bot](https://dsc.gg/zxwar-bot)**
 - 📫 Reach me at **[bdrxzar@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)**
 <br />
+</details>
 
+<details open>
 <h2>🚀 Technologies</h2>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
@@ -36,6 +38,7 @@ I'm is Bdrxzar, i'm Developer Akwardwar
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VisualStudioCode-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-5d2b90?style=flat-square&logo=visual-studio&logoColor=white" />
 </p>
+  </details>
 <br>
 <h2>⚡ Github Stats</h2>
 
