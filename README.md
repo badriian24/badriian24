@@ -3,6 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=badriian24-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
 
+![Discord](https://discord.c99.nl/widget/theme-2/776714971782053889.png)
+
+
 <a href="https://discord.gg/BQk6dsDDAu">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -12,7 +15,6 @@
  <a href="https://instagram.com/bdrxzar_24?igshid=hh8tyxkb61d4">
   <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br />
 <a href="https://discord.com/users/776714971782053889">
     <img src="https://img.shields.io/badge/bdrxzzz.%233614-%237289da?logo=discord&style=flat-square" alt="Discord" bdrxzzz#7458"/>
   </a>
