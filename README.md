@@ -1,4 +1,4 @@
-## Hi there, I'm Bdrxzar! 👋
+## Hi there, I'm Bdrxzzzz! 👋
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=badriian24-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
