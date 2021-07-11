@@ -16,7 +16,7 @@
   <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://discord.com/users/776714971782053889">
-    <img src="https://img.shields.io/badge/bdrxzzz.%233614-%237289da?logo=discord&style=flat-square" alt="Discord" bdrxzzz#7458"/>
+    <img src="https://img.shields.io/badge/bdrxzzzz%233614-%237289da?logo=discord&style=flat-square" alt="Discord" bdrxzzzz#2002"/>
   </a>
 </p>
                                                                                                                                
