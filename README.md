@@ -4,7 +4,7 @@
 
 
 
-<a href="https://discord.gg/BQk6dsDDAu">
+<a href="https://discord.gg/https://discord.gg/rCPdnEqPgx">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
  <a href="https://github.com/badriian24">
@@ -18,7 +18,7 @@
   </a>
 </p>
                                                                                                                                
-### hey I'm Bdrxzar Glad to see you here! &nbsp;
+### Hey I'm Bdrxzzzz Glad to see you here! &nbsp;
 <details open>
   <summary>About</summary>
 <br />
