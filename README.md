@@ -26,7 +26,7 @@
 I'm is Bdrxzar, i'm Developer Akwardwar
 - ☇ i'm working JavaScript
 - Invite My Bot Discord **[Zxwar Bot](https://dsc.gg/zxwar-bot)**
-- 📫 Reach me at **[bdrxzar@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)**
+- 📫 Reach me at **[bdrxzzzz@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)**
 <br />
 </details>
 
