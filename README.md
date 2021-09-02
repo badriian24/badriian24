@@ -11,18 +11,21 @@
   <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
-<br>
+<br />
+
 ### Hey I'm bdrxzzzz 🏷&nbsp;
 <details open>
   <summary>❔ About</summary>
 <br />
 
-I'm is Bdrxzar, i'm Developer Akwardwar
-- [x] ✨ Making website bugs
+I'm is bdrxzzzz, im live as **Indonesia**, i'm learning a coding
+</details>
+<br />
+
+- [x] ✨ Making bugs
 - [x] 🗿 My Bot Discord **[Zxwar Bot](https://dsc.gg/zxwar-bot)**
 - [x] 📫 Reach me at **[Click Here](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)**
 <br />
-</details>
 
 <details open>
 <summary>🚀 Technologies</summary>
