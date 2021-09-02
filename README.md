@@ -49,7 +49,7 @@ I'm is Bdrxzar, i'm Developer Akwardwar
 <details open>
 <summary>⚡ Github Stats</summary>
 
-![BDRXZAR github stats](https://github-readme-stats.vercel.app/api?username=badriian24&show_icons=true&theme=tokyonight)
+![bdrxzzzz github stats](https://github-readme-stats.vercel.app/api?username=badriian24&show_icons=true&theme=tokyonight)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badriian24&show_icons=true&theme=tokyonight)](https://github.com/badriian24)
 </details>
