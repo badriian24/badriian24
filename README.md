@@ -24,9 +24,9 @@
 <br />
 
 I'm is Bdrxzar, i'm Developer Akwardwar
-- My Faforive language Javascript
-- Invite My Bot Discord **[Zxwar Bot](https://dsc.gg/zxwar-bot)**
-- 📫 Reach me at **[Click Here](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)**
+- [x] ✨ Making website bugs
+- [x] 🗿 My Bot Discord **[Zxwar Bot](https://dsc.gg/zxwar-bot)**
+- [x] 📫 Reach me at **[Click Here](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)**
 <br />
 </details>
 
