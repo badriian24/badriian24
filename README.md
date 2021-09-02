@@ -1,6 +1,6 @@
-## Hi there, I'm Bdrxzzzz! 👋
+## Bdrxzzzz ⚔️
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=badriian24-ops-cyber" alt="sujal-ops-cyber" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=badriian24-ops-cyber" alt="badriian24-ops-cyber" /> </p>
 
 
 
