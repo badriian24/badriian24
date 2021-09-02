@@ -1,7 +1,4 @@
-## Bdrxzzzz ⚔️
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=badriian24-ops-cyber" alt="badriian24-ops-cyber" /> </p>
-
+### Bdrxzzzz ⚔️
 
 
 <a href="https://discord.gg/https://discord.gg/rCPdnEqPgx">
@@ -10,15 +7,12 @@
  <a href="https://github.com/badriian24">
   <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
- <a href="https://instagram.com/bdrxzar_24?igshid=hh8tyxkb61d4">
+ <a href="https://instagram.com/fiqih_badrian?igshid=hh8tyxkb61d4">
   <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://discord.com/users/776714971782053889">
-    <img src="https://img.shields.io/badge/bdrxzzzz%233614-%237289da?logo=discord&style=flat-square" alt="Discord" bdrxzzzz#2002"/>
-  </a>
 </p>
-                                                                                                                               
-### Hey I'm Bdrxzzzz Glad to see you here! &nbsp;
+<br>
+### Hey I'm bdrxzzzz 🏷&nbsp;
 <details open>
   <summary>❔ About</summary>
 <br />
@@ -53,3 +47,5 @@ I'm is Bdrxzar, i'm Developer Akwardwar
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badriian24&show_icons=true&theme=tokyonight)](https://github.com/badriian24)
 </details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badriian24-ops-cyber" alt="badriian24-ops-cyber" /> </p>
