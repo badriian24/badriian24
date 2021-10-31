@@ -1,13 +1,13 @@
 ### Bdrxzzzz ⚔️
 
 
-<a href="https://discord.gg/https://discord.gg/rCPdnEqPgx">
+<a href="https://discord.gg/rCPdnEqPgx">
   <img align="left" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
  <a href="https://github.com/badriian24">
   <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
- <a href="https://instagram.com/fiqih_badrian?igshid=hh8tyxkb61d4">
+ <a href="https://instagram.com/bdrxzzzz?igshid=hh8tyxkb61d4">
   <img align="left" alt="Bdrxzar Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
