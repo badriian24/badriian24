@@ -1,4 +1,4 @@
-### Bdrxzzzz ⚔️
+### Bdrxzzzz
 
 
 <a href="https://discord.gg/rCPdnEqPgx">
@@ -13,7 +13,7 @@
 </p>
 <br />
 
-### Hey I'm bdrxzzzz 🏷&nbsp;
+### Hey I'm bdrxzzzz&nbsp;
 <details open>
   <summary>❔ About</summary>
 <br />
