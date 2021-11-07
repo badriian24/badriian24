@@ -23,7 +23,7 @@ I'm is bdrxzzzz, im live as **Indonesia**, i'm learning a coding
 <br />
 
 - 🤖 Currently working on [Inosuke Bot](https://top.gg/bot/802436261519687720)
-- ✨ Learning a JavaScript
+- ✨ Learning a Code
 - 📫 Reach me at **Mail: [Click Here](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=ian24fd24@gmail.com)** | **Discord: bdrxzzzz#9090** | **Telegram: [Click Here](https://t.me/fiqih_badrian)**
 <br />
 <details open>
