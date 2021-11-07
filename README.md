@@ -35,3 +35,4 @@ I'm is bdrxzzzz, im live as **Indonesia**, i'm learning a coding
 </details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badriian24-ops-cyber" alt="badriian24-ops-cyber" /> </p>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/badriian24?style=social" />
