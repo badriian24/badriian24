@@ -17,7 +17,7 @@
         <img src="https://discord.c99.nl/widget/theme-3/776714971782053889.png" alt="bdrxzzzz#9090:discord-profile"/>
     </a>
 
-### Hey I'm bdrxzzzz test&nbsp;
+### Hey I'm bdrxzzzz&nbsp;
 <details open>
   <summary>❔ About</summary>
 <br />
